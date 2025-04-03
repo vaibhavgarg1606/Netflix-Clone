@@ -1,0 +1,81 @@
+Netflix-Clone
+¦  
+¦   eslint.config.js
+¦   index.html
+¦   package-lock.json
+¦   package.json
+¦   README.md
+¦   tree.txt
+¦   vite.config.js
+¦   
+¦           
++---public
+¦       background_banner.jpg
+¦       netflix_favicon.ico
+¦       
++---src
+    ¦   App.jsx
+    ¦   firebase.js
+    ¦   index.css
+    ¦   main.jsx
+    ¦   
+    +---assets
+    ¦   ¦   back_arrow_icon.png
+    ¦   ¦   bell_icon.svg
+    ¦   ¦   caret_icon.svg
+    ¦   ¦   facebook_icon.png
+    ¦   ¦   hero_banner.jpg
+    ¦   ¦   hero_title.png
+    ¦   ¦   info_icon.png
+    ¦   ¦   instagram_icon.png
+    ¦   ¦   logo.png
+    ¦   ¦   netflix_spinner.gif
+    ¦   ¦   play_icon.png
+    ¦   ¦   profile_img.png
+    ¦   ¦   search_icon.svg
+    ¦   ¦   twitter_icon.png
+    ¦   ¦   youtube_icon.png
+    ¦   ¦   
+    ¦   +---cards
+    ¦           card1.jpg
+    ¦           card10.jpg
+    ¦           card11.jpg
+    ¦           card12.jpg
+    ¦           card13.jpg
+    ¦           card14.jpg
+    ¦           card2.jpg
+    ¦           card3.jpg
+    ¦           card4.jpg
+    ¦           card5.jpg
+    ¦           card6.jpg
+    ¦           card7.jpg
+    ¦           card8.jpg
+    ¦           card9.jpg
+    ¦           Cards_data.js
+    ¦           
+    +---components
+    ¦   +---Footer
+    ¦   ¦       Footer.jsx
+    ¦   ¦       Footer.scss
+    ¦   ¦       
+    ¦   +---NavBar
+    ¦   ¦       Navbar.jsx
+    ¦   ¦       Navbar.scss
+    ¦   ¦       
+    ¦   +---TitleCards
+    ¦           TitleCards.jsx
+    ¦           TitleCards.scss
+    ¦           
+    +---pages
+        +---Home
+        ¦       Home.jsx
+        ¦       Home.scss
+        ¦       
+        +---Login
+        ¦       Login.jsx
+        ¦       Login.scss
+        ¦       
+        +---Player
+                Player.jsx
+                Player.scss
+                
