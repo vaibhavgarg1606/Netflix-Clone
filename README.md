@@ -77,5 +77,5 @@ To deploy the application, you can use services like:
 - GitHub Pages (with Vite configuration)
 
 ## Contact
-For queries or collaboration, contact [Vaibhav Garg] at vaibhavgarg162004@gmail.com.
+For queries or collaboration, contact Vaibhav Garg at vaibhavgarg162004@gmail.com.
 
